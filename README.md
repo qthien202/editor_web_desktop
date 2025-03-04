@@ -1,4 +1,4 @@
-# ziichat_editor_web_desktop
+# editor_web_desktop
 
 A new Flutter plugin project.
 
